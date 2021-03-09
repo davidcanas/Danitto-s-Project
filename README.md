@@ -5,12 +5,12 @@ Bem vindo!
 ------------
 Este é um dos primeiros Bots do Discord usando a criação automática de comandos de última geração 
 
-Como usar ?
+# Como usar ?
 ```js
 git clone https://github.com/SrDCdev/Danitto-s-Project
 ```
 
-Depois instale as dependências 
+# Depois instale as dependências 
 ```js
 npm install 
 ``` 
@@ -22,14 +22,13 @@ node index.js
 
 E pronto um bot que tem comandos automáticamente pela livraria quick.db (quick de rápido e dB significa Database ou seja tudo junto da Database rápida) 
 
-O que é Database ?
-```
-Database do grego Databus significa Infinito então ou seja o quick.db da lhe comandos rápido e infinito
-```
-Como criar ? 
-```
-Depois de seguir todos os passos use /shrug message: <nome do seu comando> 
-``` 
+# O que é Database ?
+Database do grego __Databus__ significa Infinito então ou seja o quick.db da lhe comandos rápido e infinito
+
+# Como criar comando ? 
+
+__Depois de seguir todos os passos use /shrug message: <nome do seu comando>__
+
 Você nem precisa de adicionar seu bot ! Ele fica implementado no Discord!
 
 Não se esqueça de deixar sua star ! 
