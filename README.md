@@ -3,9 +3,7 @@
 
 Bem vindo!
 ------------
-Aqui eu ensinarei várias coisas como
-Fazer um `handler` e alguns comandos do meu bot caso tenham uma ideia façam um Pull request 
-
+Este é um dos primeiros Bots do Discord usando a criação automática de comandos de última geração 
 
 Como usar ?
 ```js
