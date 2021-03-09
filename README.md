@@ -20,7 +20,7 @@ Depois só usar :
 node index.js
 ``` 
 
-E pronto um bot que tem comandos automáticamente pela livraria quick.db (quick de rápido e dB significa Database ou seja tudo junto da Database rápida 
+E pronto um bot que tem comandos automáticamente pela livraria quick.db (quick de rápido e dB significa Database ou seja tudo junto da Database rápida) 
 
 O que é Database ?
 ```
