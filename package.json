@@ -1,0 +1,26 @@
+{
+  "name": "danittoproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrDCdev/Danitto-s-Project.git"
+  },
+  "keywords": [
+    "sla"
+  ],
+  "author": "CanasDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrDCdev/Danitto-s-Project/issues"
+  },
+  "homepage": "https://github.com/SrDCdev/Danitto-s-Project#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "quick.db": "^7.1.3"
+  }
+}
