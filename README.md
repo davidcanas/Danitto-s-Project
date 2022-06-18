@@ -7,7 +7,7 @@ Este é um dos primeiros Bots do Discord usando a criação automática de coman
 
 # Como usar ?
 ```js
-git clone https://github.com/SrDCdev/Danitto-s-Project
+git clone https://github.com/davidcanas/Danitto-s-Project
 ```
 
 # Depois instale as dependências 
